@@ -4,7 +4,7 @@
 
 ## 内容
 
-- `office-renderer.v20261106.2.js`：React、Pixi、办公室场景、人物原帧动画与图资源；独立 IIFE，无运行时 npm/CDN 依赖。
+- `office-renderer.v20261106.3.js`：React、Pixi、办公室场景、人物原帧动画与图资源；独立 IIFE，无运行时 npm/CDN 依赖。
 - `manifest.json`：版本、来源提交及 SHA256。
 - `LICENSE.txt`、`THIRD_PARTY_NOTICES.txt`：软件许可和依赖声明。
 
