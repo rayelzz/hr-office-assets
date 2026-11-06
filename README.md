@@ -16,7 +16,7 @@
 
 ## 原作来源
 
-[workbzw/pixoffice](https://github.com/workbzw/pixoffice)，固定提交 `94ce6060ff640e9198f95518699c5f2ce3fcdb0b`。复用原 FrameSprite、帧采样、CharacterPackResources、DeskEntity 及原房间、桌椅、电脑和六套人物图片，创建八个独立工位实例。图片经过无损 WebP 转换与原帧图集合并，没有使用整张设计效果图冒充交互场景。
+[workbzw/pixoffice](https://github.com/workbzw/pixoffice)，固定提交 `94ce6060ff640e9198f95518699c5f2ce3fcdb0b`。复用原 FrameSprite、帧采样、CharacterPackResources、DeskEntity 及原房间、桌椅、电脑和六套人物图片，创建八个独立工位实例。图片经过WebP 压缩与原帧图集合并，没有使用整张设计效果图冒充交互场景。
 
 原代码按 MIT 许可保留声明。上游明确说明其软件依赖许可清单不确立图片素材的授权，本仓库同样不为第三方图片赋予额外许可；来源说明见 [上游许可说明](https://github.com/workbzw/pixoffice/blob/main/licenses/README.md)。
 
