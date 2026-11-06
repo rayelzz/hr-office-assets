@@ -1,8 +1,8 @@
 {
-  "version": "boss-office-copy-20261106-3",
-  "file": "office-renderer.v20261106.3.js",
-  "bytes": 2605318,
-  "sha256": "98363350d49b06d1c3ea4421e6e9e15da080093db031c3ba1ee6e90c012dd83c",
+  "version": "boss-office-copy-20261106-4",
+  "file": "office-renderer.v20261106.4.js",
+  "bytes": 2611499,
+  "sha256": "4135117574d4d0addc635f81bf950caf5ca99ca2d011878cb576091f7c92ceb1",
   "upstream": "https://github.com/workbzw/pixoffice",
   "upstreamCommit": "94ce6060ff640e9198f95518699c5f2ce3fcdb0b",
   "dataPolicy": "No real accounts, JDs, recruiting records, credentials or remote data endpoint."

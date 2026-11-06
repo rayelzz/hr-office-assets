@@ -4,7 +4,7 @@
 
 ## 内容
 
-- `office-renderer.v20261106.3.js`：React、Pixi、办公室场景、人物原帧动画与图资源；独立 IIFE，无运行时 npm/CDN 依赖。
+- `office-renderer.v20261106.4.js`：React、Pixi、办公室场景、人物原帧动画与图资源；独立 IIFE，无运行时 npm/CDN 依赖。
 - `manifest.json`：版本、来源提交及 SHA256。
 - `LICENSE.txt`、`THIRD_PARTY_NOTICES.txt`：软件许可和依赖声明。
 
@@ -23,3 +23,7 @@
 ## 部署
 
 GitHub Pages 从 `main` 根目录发布，`.nojekyll` 保留版本化静态文件。加载方应固定带版本的文件名，更新时使用新文件名并核对 `manifest.json`。
+
+## 大小屏适配
+
+宽横屏使用四列两排，竖向窗口使用两列四排。工位按实际可见素材边界与可用宽高等比例排布，保留名牌、工位、白板和会议桌的间距。极窄或低矮窗口通过内部滚动保留可读尺寸；人物详情浮层限制在当前可视区域内。
